@@ -1,0 +1,149 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: gainsboro;
+}
+main {padding: 1em;
+}
+.sfondoblu {
+    background-color: #131921;
+    width: 100%;
+}
+#logosopra img {
+    width: 6em;
+
+}
+#logosotto {
+    background-color: #131921;
+    width: 100%;
+}
+#logosotto img {
+    width: 10em;
+}
+.bluchiaroscrittabianca, #tornasu, .bluchiaroscrittabianca span
+{
+    background-color:#232f3f;
+    color: white;}
+
+.sfondoarancioneconpaddinglaterale
+{background-color: #FF9900;
+margin: 1em;
+text-align: center;
+}
+
+.sfondoregali {
+    background-image: url(bg-image.png);
+    padding-bottom: 1em;
+    padding-top: 1em;
+    margin-bottom: 1em;
+    color: white;
+    text-align: center;}
+
+
+.quattrofoto {background-color: white;
+padding: 1em;
+margin-bottom: 1em;}
+
+
+.immagini {
+    display: flex;
+    justify-content: space-around;
+   
+}
+.immagini img {
+    width: 19em;
+    height: 19em;
+    border-radius: 15%;
+     box-shadow: 10px,10px,10px,black;
+
+}
+
+.visore, .casse
+{
+    background-color: white;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-top: 1em;
+
+}
+.visore img, .casse img
+{width: 100%;
+}
+.play {
+    margin-bottom: 1em;
+    }
+
+
+.similelink, .sound, .play {
+    text-align: center;
+    font-style: bold;
+}
+
+
+#tornasu {
+    background-color: #32384d;
+    text-align: center;
+}
+
+.quattrofoto, .visore, .casse {
+    font-weight: bold;
+}
+
+#padre {
+    background-color: gainsboro;
+    position: relative;
+    display: inline-flex;
+
+
+}
+.sopra, .sotto {
+ display: inline-flex;
+}
+
+
+.sopra img, .sotto img {
+    width: 80%;
+    margin-left: 1em;
+
+}
+
+#primoblocco, #secondoblocco, #terzoblocco, #quartoblocco
+{background-color: white;
+margin: 1em;
+}
+
+.nuovo img, .nuovo2 img, .nuovo3 img {
+    width: 5%;
+}
+.nuovo {
+    position: absolute;
+    bottom: 10em;
+    right: 1em;
+}
+
+.nuovo2 { 
+    position: absolute;
+    bottom: 10em;
+    right: -20em;
+
+}
+.nuovo3 {position: absolute;
+bottom: 4em;
+right: -8em;}
+
+
+#primoblocco p, #secondoblocco p, #terzoblocco p, #quartoblocco p
+{font-weight: bold;
+font-size: large;
+margin-left: 1em;
+}
+
+.s{
+    font-size: smaller;
+    margin-bottom: 1em;
+margin-left: 10%;
+}
+
+span, .scritta {color: cornflowerblue;
+margin-left: 1em;
+margin-bottom: 1em;}
+
